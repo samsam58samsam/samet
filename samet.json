@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "Model": "S24 Ultra",
+            "Marka": "SAMSUNG",
+            "poster": "https://thumbsnap.com/i/MrwsdMhP.png ",
+            "videoUrl": "https://thumbsnap.com/i/oBLvEMmn.mp4",
+            "webSite":"https://shop.samsung.com/tr/galaxy-s24-ultra-1/?integration_hafiza_romboyutugb=512+GB&integration_hafiza_romboyutugb=512+GB&phone_device=Galaxy+S24+Ultra&integration_color=Titanyum+Sar%C4%B1&integration_color=Titanyum+Mavi",
+            "Metin":"Yapay zeka ile daha önce hiç olmadığı gibi arama yapın1, telefon aramalarında gerçek zamanlı çeviri alın."
+            
+        },
+        {
+            "Model": "Galaxy Z Fold 5",
+            "Marka": "SAMSUNG",
+            "poster": "https://thumbsnap.com/i/VuRASszc.png",
+            "videoUrl": "https://thumbsnap.com/i/HTQ1sh6u.mp4",
+            "webSite":"https://shop.samsung.com/tr/galaxy-z-fold5-2/?integration_color=Phantomblack&integration_hafiza_romboyutugb=1%20TB",
+            "Metin":"Karşınızda, size daha önce hiç görmediğiniz bir izleme deneyimi sunmak için tasarlanan büyüleyici, dinamik ekran.1,2 Yeniden tasarlanan Esnek Eklem, sevdiğiniz şeyleri daha sıkı kavramak için daha ince bir formla birlikte istediğiniz kadar katlanır."
+            
+        },
+        {
+            "Model": "A54",
+            "Marka": "SAMSUNG",
+            "poster": "https://thumbsnap.com/i/3RV46Uq8.png",
+            "videoUrl": "https://thumbsnap.com/i/94SNSJrp.mp4",
+            "webSite":"https://shop.samsung.com/tr/galaxy-z-fold5-2/?integration_color=Phantomblack&integration_hafiza_romboyutugb=1%20TB",
+            "Metin":"Karşınızda, size daha önce hiç görmediğiniz bir izleme deneyimi sunmak için tasarlanan büyüleyici, dinamik ekran.1,2 Yeniden tasarlanan Esnek Eklem, sevdiğiniz şeyleri daha sıkı kavramak için daha ince bir formla birlikte istediğiniz kadar katlanır."
+            
+        }
+
+       
+
+    ]
+}
